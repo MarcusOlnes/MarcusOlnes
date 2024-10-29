@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact **I am an independent designer and graffiti artist! You can check out my work on my <a href="https://www.instagram.com/marcitospray/">Instagram page</a>**
 
-- 🌱 Check out **my minimalistic website reviewing the food scene in Oslo! <a href="https://marcusolnes.github.io/OsloReviews/index.html">OsloReviews</a>**
+- 🌱 Check out **my minimalistic website reviewing the food scene in Oslo! <a href="https://marcusolnes.github.io/OsloReviews/">OsloReviews</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
