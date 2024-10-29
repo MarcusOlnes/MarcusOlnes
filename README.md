@@ -6,6 +6,8 @@
 
 - ⚡ Fun fact **I am an independent designer and graffiti artist! You can check out my work on my <a href="https://www.instagram.com/marcitospray/">Instagram page</a>**
 
+- 🌱 Check out **my website reviewing the food scene in Oslo! <a href="https://github.com/MarcusOlnes/Oslo-reviews.git"</a>**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/marcus-byhring-ølnes-270691214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marcus-byhring-ølnes-270691214" height="30" width="40" /></a>
