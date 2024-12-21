@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcus Byhring Ølnes</h1>
 
-- 🌱 I’m currently learning **Java, Swift and Python**
+- 🌱 I’m currently learning **Java, GDscript and Python**
 
 - 📫 How to reach me **mbolnes@gmail.com**
 
