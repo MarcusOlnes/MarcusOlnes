@@ -6,5 +6,5 @@
 
 - 🌱 Check out **my minimalistic website reviewing the food scene in Oslo! <a href="https://marcusolnes.github.io/OsloReviews/">OsloReviews</a>**
 
-- Check out **the prototype of Coin Ninja! My solo development project in Godot! <a href= "https://coinninjademo.netlify.app/coinninja">CoinNinja-Prototype</a>**
+- Check out **the prototype of Coin Ninja! My solo development project in Godot! <a href= "https://coinninja.netlify.app/">CoinNinja-Prototype</a>**
 
