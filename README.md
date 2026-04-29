@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: **mbolnes@gmail.com**
 
-- ⚡ Fun fact **I am an independent graphic designer and graffiti artist! You can check out my work on my <a href="https://www.instagram.com/marcitospray/">Instagram page</a> or on my  <a href="https://www.marcitospray.com">Website!</a> **
+- ⚡ Fun fact **I am a graphic designer and graffiti artist! Check out my work on my <a href="https://www.instagram.com/marcitospray/">Instagram page</a> or my <a href="https://www.marcitospray.com">Website!</a> **
 
 - 🥢 Check out **my minimalistic website reviewing the food scene in Oslo! <a href="https://marcusolnes.github.io/OsloReviews/">OsloReviews</a>**
 
