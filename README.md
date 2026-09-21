@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Marcus Byhring Ølnes</h1>
+<h1 align="center">Marcus Byhring Ølnes</h1>
 
-- 📫 How to reach me: **mbolnes@gmail.com**
+- **My minimalistic website reviewing the food scene in Oslo! <a href="https://marcusolnes.github.io/OsloReviews/">OsloReviews</a>**
 
-- ⚡ Fun fact: **I am a graphic designer/graffiti artist!** Check out my work on my <a href="https://www.instagram.com/marcitospray/">**Instagram page**</a> or my <a href="https://www.marcitospray.com"> **website**!</a> 
+- **My solo development project in Godot called "Coin Ninja"! <a href= "https://coinninja.netlify.app/">CoinNinja-Prototype</a>**
 
-- 🥢 Check out **my minimalistic website reviewing the food scene in Oslo! <a href="https://marcusolnes.github.io/OsloReviews/">OsloReviews</a>**
+- You can reach me at mbolnes@gmail.com
 
-- 🥷 Check out **the prototype of Coin Ninja! My solo development project in Godot! <a href= "https://coinninja.netlify.app/">CoinNinja-Prototype</a>**
-
+- Check out my creative side on my <a href="https://www.instagram.com/marcitospray/">**Instagram page**</a> or my <a href="https://www.marcitospray.com"> **website**!</a> 
