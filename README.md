@@ -4,6 +4,6 @@
 
 - **My solo development project in Godot called "Coin Ninja"! <a href= "https://coinninja.netlify.app/">CoinNinja-Prototype</a>**
 
-- You can reach me at mbolnes@gmail.com
+- **You can reach me at mbolnes@gmail.com**
 
-- Check out my creative side on my <a href="https://www.instagram.com/marcitospray/">**Instagram page**</a> or my <a href="https://www.marcitospray.com"> **website**!</a> 
+- **Check out my creative side on my <a href="https://www.instagram.com/marcitospray/">Instagram page</a> or my <a href="https://www.marcitospray.com"> website!</a>**
