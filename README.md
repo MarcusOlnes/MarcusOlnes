@@ -1,8 +1,8 @@
 <h1 align="center">Marcus Byhring Ølnes</h1>
 
-- **My minimalistic website reviewing the food scene in Oslo! <a href="https://marcusolnes.github.io/OsloReviews/">OsloReviews</a>**
+- **My minimalistic website reviewing the food scene in Oslo, <a href="https://marcusolnes.github.io/OsloReviews/">OsloReviews</a>**
 
-- **My solo development project in Godot called "Coin Ninja"! <a href= "https://coinninja.netlify.app/">CoinNinja-Prototype</a>**
+- **My solo development project in Godot called <a href= "https://coinninja.netlify.app/">"Coin Ninja!"</a>**
 
 - **You can reach me at mbolnes@gmail.com**
 
